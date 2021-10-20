@@ -35,7 +35,7 @@ dm 'cle log' ;
 %include "F:\Projekter\FSEID00004942\FrederikPlesnerLyngse\Household Transmission\WGS\Build - Revision 1\Build_Household_End_14_days.sas" ;
 
 * CT ;
-%include "F:\Projekter\FSEID00004942\FrederikPlesnerLyngse\Household Transmission\WGS\Build - Revision 1\Ct_build.sas" ;
+%include "F:\Projekter\FSEID00004942\FrederikPlesnerLyngse\Household Transmission\WGS\Build - Revision 1\Ct_build_NEW.sas" ;
 
 
 *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
